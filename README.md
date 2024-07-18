@@ -1,5 +1,7 @@
 # bionicle part
-I am researching bionicle part for leocad/ldraw, and found this
+I am researching bionicle part for leocad/ldraw, and found this.
+
+complete+bio.zip : update database with new part
 
 ## author : thall72
 ## link : https://www.printables.com/fr/@thall72
