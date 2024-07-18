@@ -5,7 +5,7 @@ complete+bio.zip : update database with new part
 
 ## author : thall72
 ## link : https://www.printables.com/fr/@thall72
-## part :
+## part (conv from stl):
 - 32568, 32579, 40507,32171
 
 ## author : Max Murtazin
