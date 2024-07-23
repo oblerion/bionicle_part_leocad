@@ -1,8 +1,12 @@
-# bionicle part
 I am researching bionicle part for leocad/ldraw, and found this.
 
-complete+bio.zip : update database with new part
+# Install on leocad
+- download complete+bio.zip -> update database with new part
+- on leocad View->Preferences
+- set Parts Library with zip's path
+- restart and it's done
 
+# Part info
 ## author : thall72
 ## link : https://www.printables.com/fr/@thall72
 ## part (conv from stl):
